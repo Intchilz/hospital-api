@@ -1,11 +1,11 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Contacts ApI",
+    "title": "hospital ApI",
     "description": "Contacts Api",
     "version": "1.0.0"
   },
-  "host": "https://hospital-api-1-lij2.onrender.com",
+  "host": "hospital-api-1-lij2.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
