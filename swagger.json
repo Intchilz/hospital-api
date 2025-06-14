@@ -5,7 +5,7 @@
     "description": "Contacts Api",
     "version": "1.0.0"
   },
-  "host": "localhost:3030",
+  "host": "https://hospital-api-1-lij2.onrender.com",
   "basePath": "/",
   "schemes": [
     "http",
