@@ -8,7 +8,6 @@
   "host": "https://hospital-api-1-lij2.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
